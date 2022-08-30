@@ -11,7 +11,7 @@ Course content
 
 4. Interpolación polinomial. Formas de Lagrange y de Newton. Fórmula del error. Interpolación de Hermite. Puntos de interpolación óptimos para la aproximación uniforme: polinomios de Chebyshev.
 
-5.Productos escalares discretos y continuos. Polinomios ortogonales y cuadrados mínimos. Proyección ortogonal. Ecuaciones normales. Método de Gram-Schmidt y descomposición QR de matrices.
+5. Productos escalares discretos y continuos. Polinomios ortogonales y cuadrados mínimos. Proyección ortogonal. Ecuaciones normales. Método de Gram-Schmidt y descomposición QR de matrices.
 
 6. Integración numérica. Reglas basadas en interpolación polinomial. Fórmulas de Newton-Cotes. Reglas del trapecio y de Simpson. Grado de precisión y error de las reglas de integración. Reglas compuestas. Cuadratura de Gauss.
 
