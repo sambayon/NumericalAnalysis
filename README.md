@@ -1,7 +1,7 @@
 # NumericalAnalysis
 Little projects for Numerical Analysis and Linear Algebra course.
 
-#Course #Content
+Course content
 
 1. Aritmética de punto fijo y flotante. Representación de los números en una computadora. Errores de redondeo y truncado. Propagación de los errores en los cómputos. Ejemplos de problemas mal condicionados. Estabilidad numérica.
 
@@ -17,7 +17,7 @@ Little projects for Numerical Analysis and Linear Algebra course.
 
 7. Resolución numérica de ecuaciones diferenciales ordinarias. Método de Euler explícito e implícito. Métodos de Taylor. Métodos de Runge-Kutta. Métodos de paso variable y adaptividad. Error local o de truncamiento. Orden de convergencia y estimación de error. Métodos de paso múltiple: Adams-Moulton, Adams-Basforth. Métodos de predicción y corrección. Estabilidad relativa y absoluta y orden de convergencia.
 
-#BIBLIOGRAFIA
+BIBLIOGRAFIA
 
 Textos
 
